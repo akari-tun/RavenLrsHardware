@@ -4,5 +4,5 @@
 
 Aqui podrás encontrar tanto Rx, Tx, como otro tipo de hardware compatible con RavenLRS.
 
-## RX_Slim_v1
-Este receptor esta basado (como todo el proyecto) en ESP32.
+## Primeros pasos en RavenLRS
+Lo primero que bereras e tener es tanto un Tx como un Rx, ya sea generico o los diferentes tipos que podras encontrar en este repositorio.
