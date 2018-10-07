@@ -4,3 +4,5 @@ Este receptor es el mas pequeño que he creado hasta la fecha, siendo asi perfec
 Esta version no cuenta con oled, por lo que no podremos visualizar los datos como en los receptores genericos de RavenLRS.
 
 ## Listado de componentes
+ ### --- 433Mhz ---
+ 
