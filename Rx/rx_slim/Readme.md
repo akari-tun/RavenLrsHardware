@@ -4,9 +4,8 @@ Este receptor es el mas pequeño que he creado hasta la fecha, siendo asi perfec
 Esta version no cuenta con oled, por lo que no podremos visualizar los datos como en los receptores genericos de RavenLRS.
 **Este hardware todavía no ha sido probado**
 
-![](/images/RX_slim_bot.png)
-![](/images/RX_slim_top.png)
-
+![](images/RX_slim_top.png)
+![](images/RX_slim_bot.png)
 
 
 ## Listado de componentes
