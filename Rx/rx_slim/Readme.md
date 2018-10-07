@@ -6,3 +6,4 @@ Esta version no cuenta con oled, por lo que no podremos visualizar los datos com
 ## Listado de componentes
  ### --- 433Mhz ---
  link:www.google.es[google] hola google
+ [a link](https://github.com/user/repo/blob/branch/other_file.md)
