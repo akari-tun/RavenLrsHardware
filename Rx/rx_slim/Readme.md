@@ -10,7 +10,7 @@ Esta version no cuenta con oled, por lo que no podremos visualizar los datos com
 </p>
 
 ## Listado de componentes
-Ya que este proyecto es realizado en mis tiempos libre y no recivo remuneracion economica por ello, los enlaces de aliexpres llevan un enlace de afiliado, donde me dan una pequeña comision de los productos que se compren atrasves de ellos, porfavor usalos para que este proyecto siga adelante
+Ya que este proyecto es realizado en mis tiempos libre y no recivo remuneracion economica por ello, los enlaces de aliexpress llevan un enlace de afiliado, donde me dan una pequeña comision de los productos que se compren atrasves de ellos, porfavor usalos para que este proyecto siga adelante
  ### --- 433Mhz ---
  [Sx1278](https://github.com/user/repo/blob/branch/other_file.md): Emisor Lora 433Mhz con ufl incorporado. <br />
  [Esp32](https://github.com/user/repo/blob/branch/other_file.md): Procesador Esp32 con adaptador usb. (Sin oled) <br />
